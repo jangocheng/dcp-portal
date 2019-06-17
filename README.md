@@ -5,7 +5,7 @@
 基于[ng-alain](https://github.com/ng-alain/ng-alain)，进行第二次改造。
 
 
-## 公众号# QQ群
+# 公众号# QQ群
 ![](https://github.com/dunzung/dcp-platform/blob/master/assets/code.jpg?raw=true)
 ![](https://github.com/dunzung/dcp-platform/blob/master/assets/q.png?raw=true)
 
@@ -14,15 +14,18 @@
 - angular 7.2.0
 
 # 命令
+
 ```
 $ git clone --depth=1 https://github.com/dunzung/dcp-portal.git my-project 
 $ cd my-project && npm install && npm start
 ```
+
 **浏览器**
 ``
 http://localhost:4200/#/passport/login
 账号：admin/ng-alain.com
 ``
+
 **效果**
 ![](https://github.com/dunzung/assets/blob/master/20190617172603.png?raw=true)
 ![](https://github.com/dunzung/assets/blob/master/20190617172608.png?raw=true)
