@@ -2,7 +2,7 @@
 # 简介
 采用前后端分离，前端UI:dcp-portal，后端微服务架构：dcp-platform基于Springcloud框架，搭建企业级微服务云框架，持续更新。 
 
-基于ng-alain，进行第一次优化改造。
+基于[ng-alain](https://github.com/ng-alain/ng-alain)，进行第二次改造。
 
 
 ## 公众号# QQ群
@@ -28,8 +28,5 @@ http://localhost:4200/#/passport/login
 ![](https://github.com/dunzung/assets/blob/master/20190617172608.png?raw=true)
 ![](https://github.com/dunzung/assets/blob/master/20190617172620.png?raw=true)
 ![](https://github.com/dunzung/assets/blob/master/20190617172623.png?raw=true)
-![](https://github.com/dunzung/assets/blob/master/20190617172635.png?raw=true) 
+![](https://github.com/dunzung/assets/blob/master/20190617172635.png?raw=true)  
 
-
-# fork
-https://github.com/ng-alain/ng-alain
