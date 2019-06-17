@@ -21,10 +21,10 @@ $ cd my-project && npm install && npm start
 ```
 
 **浏览器**
-``
+```
 http://localhost:4200/#/passport/login
 账号：admin/ng-alain.com
-``
+```
 
 **效果**
 ![](https://github.com/dunzung/assets/blob/master/20190617172603.png?raw=true)
