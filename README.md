@@ -27,6 +27,8 @@ http://localhost:4200/#/passport/login
 ```
 
 **效果**
+![](https://github.com/dunzung/assets/blob/master/20190617175857.png?raw=true)
+![](https://github.com/dunzung/assets/blob/master/20190617175811.png?raw=true)
 ![](https://github.com/dunzung/assets/blob/master/20190617172603.png?raw=true)
 ![](https://github.com/dunzung/assets/blob/master/20190617172608.png?raw=true)
 ![](https://github.com/dunzung/assets/blob/master/20190617172620.png?raw=true)
